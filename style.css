@@ -1,0 +1,75 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: lightblue;
+}
+
+.bird1img {
+  width: 290px;
+  height: 200px;
+  transform: scaleX(-1);
+}
+
+.bird1 {
+  position: absolute;
+  left: 80%;
+  width: 300px;
+  height: 220px;
+  top: 25%;
+}
+
+.bird2img {
+  width: 290px;
+  height: 200px;
+}
+
+.bird2 {
+  position: absolute;
+  left: 40%;
+  width: 300px;
+  height: 220px;
+  top: 40%;
+}
+
+.bird3img {
+  width: 290px;
+  height: 200px;
+}
+
+.bird3 {
+  position: absolute;
+  left: 15%;
+  width: 300px;
+  height: 220px;
+  top: 30%;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 20%;
+  top: 10%;
+}
+
+.cloud3 {
+  position: absolute;
+  left: 28%;
+  top: 10%;
+}
+
+.cloud4 {
+  position: absolute;
+  left: 50%;
+  top: 2%;
+}
+
+.cloud5 {
+  position: absolute;
+  left: 60%;
+  top: 15%;
+}
+
+.cloud6 {
+  position: absolute;
+  left: 70%;
+  top: 1%;
+}
